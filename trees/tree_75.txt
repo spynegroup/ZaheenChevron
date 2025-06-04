@@ -1,0 +1,1222 @@
+|--- Price WTI crude oil <= -0.48
+|   |--- Adj Close Exxonmobil stock <= -1.23
+|   |   |--- Price treasury <= 1.10
+|   |   |   |--- Adj Close Exxonmobil stock <= -2.27
+|   |   |   |   |--- Adj Close Exxonmobil stock <= -2.59
+|   |   |   |   |   |--- Price WTI crude oil <= -0.89
+|   |   |   |   |   |   |--- value: [-2.59]
+|   |   |   |   |   |--- Price WTI crude oil >  -0.89
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.66
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.76
+|   |   |   |   |   |   |   |   |--- value: [-2.42]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.76
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.45
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.69
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.68
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-2.37]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.68
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-2.37]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.69
+|   |   |   |   |   |   |   |   |   |   |--- value: [-2.38]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.45
+|   |   |   |   |   |   |   |   |   |--- value: [-2.35]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.66
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.72
+|   |   |   |   |   |   |   |   |--- value: [-2.34]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.72
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.65
+|   |   |   |   |   |   |   |   |   |--- value: [-2.30]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.65
+|   |   |   |   |   |   |   |   |   |--- value: [-2.28]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  -2.59
+|   |   |   |   |   |--- Price S&P Oil <= -0.89
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.42
+|   |   |   |   |   |   |   |--- value: [-2.12]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.42
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.49
+|   |   |   |   |   |   |   |   |--- value: [-1.99]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.49
+|   |   |   |   |   |   |   |   |--- value: [-2.01]
+|   |   |   |   |   |--- Price S&P Oil >  -0.89
+|   |   |   |   |   |   |--- Price treasury <= -0.52
+|   |   |   |   |   |   |   |--- value: [-2.17]
+|   |   |   |   |   |   |--- Price treasury >  -0.52
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.95
+|   |   |   |   |   |   |   |   |--- value: [-2.26]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.95
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.42
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.39
+|   |   |   |   |   |   |   |   |   |   |--- value: [-2.23]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.39
+|   |   |   |   |   |   |   |   |   |   |--- value: [-2.23]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.42
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.33
+|   |   |   |   |   |   |   |   |   |   |--- value: [-2.22]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.33
+|   |   |   |   |   |   |   |   |   |   |--- value: [-2.21]
+|   |   |   |--- Adj Close Exxonmobil stock >  -2.27
+|   |   |   |   |--- Adj Close Exxonmobil stock <= -1.74
+|   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.05
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.25
+|   |   |   |   |   |   |   |--- value: [-1.66]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.25
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.22
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.08
+|   |   |   |   |   |   |   |   |   |--- value: [-2.05]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.08
+|   |   |   |   |   |   |   |   |   |--- value: [-2.09]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.22
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.43
+|   |   |   |   |   |   |   |   |   |--- value: [-1.85]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.43
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.64
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.98]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.64
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.95]
+|   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.05
+|   |   |   |   |   |   |--- Price treasury <= -0.10
+|   |   |   |   |   |   |   |--- Price treasury <= -0.16
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.26
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.33
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.21
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.73]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.21
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.84]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.33
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.78
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.87]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.78
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.90]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.26
+|   |   |   |   |   |   |   |   |   |--- value: [-1.69]
+|   |   |   |   |   |   |   |--- Price treasury >  -0.16
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.13
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.48]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.48]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.13
+|   |   |   |   |   |   |   |   |   |--- value: [-1.59]
+|   |   |   |   |   |   |--- Price treasury >  -0.10
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.92
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.81
+|   |   |   |   |   |   |   |   |   |--- value: [-1.97]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.81
+|   |   |   |   |   |   |   |   |   |--- value: [-1.93]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.92
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.09
+|   |   |   |   |   |   |   |   |   |--- value: [-1.83]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.09
+|   |   |   |   |   |   |   |   |   |--- value: [-1.84]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  -1.74
+|   |   |   |   |   |--- Price WTI crude oil <= -1.33
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.26
+|   |   |   |   |   |   |   |--- Price treasury <= -0.23
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.34
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.40
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.77]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.40
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.76]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.34
+|   |   |   |   |   |   |   |   |   |--- value: [-1.72]
+|   |   |   |   |   |   |   |--- Price treasury >  -0.23
+|   |   |   |   |   |   |   |   |--- value: [-1.66]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.26
+|   |   |   |   |   |   |   |--- Price S&P Oil <= -1.29
+|   |   |   |   |   |   |   |   |--- value: [-1.87]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  -1.29
+|   |   |   |   |   |   |   |   |--- value: [-1.88]
+|   |   |   |   |   |--- Price WTI crude oil >  -1.33
+|   |   |   |   |   |   |--- Price WTI crude oil <= -0.86
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.43
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.83
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.22
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.23
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.42]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.23
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.41]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.22
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.83
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.77
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.49]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.77
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.46]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.43
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.22
+|   |   |   |   |   |   |   |   |   |--- value: [-1.23]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.22
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.34
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.42]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.34
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.50]
+|   |   |   |   |   |   |--- Price WTI crude oil >  -0.86
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.73
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.23
+|   |   |   |   |   |   |   |   |   |--- value: [-1.82]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.23
+|   |   |   |   |   |   |   |   |   |--- value: [-1.77]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.73
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.32
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.51
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.53]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.51
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.52]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.32
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.58
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.66]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.58
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.52
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.60]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.52
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.62]
+|   |   |--- Price treasury >  1.10
+|   |   |   |--- Price WTI crude oil <= -0.68
+|   |   |   |   |--- Adj Close Exxonmobil stock <= -1.86
+|   |   |   |   |   |--- value: [0.57]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  -1.86
+|   |   |   |   |   |--- value: [0.55]
+|   |   |   |--- Price WTI crude oil >  -0.68
+|   |   |   |   |--- value: [0.61]
+|   |--- Adj Close Exxonmobil stock >  -1.23
+|   |   |--- Price treasury <= -0.31
+|   |   |   |--- Adj Close Exxonmobil stock <= -0.45
+|   |   |   |   |--- Price WTI crude oil <= -0.61
+|   |   |   |   |   |--- Price WTI crude oil <= -1.35
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.79
+|   |   |   |   |   |   |   |--- Price S&P Oil <= -1.32
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.15
+|   |   |   |   |   |   |   |   |   |--- value: [-1.87]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.15
+|   |   |   |   |   |   |   |   |   |--- value: [-1.87]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  -1.32
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.07
+|   |   |   |   |   |   |   |   |   |--- value: [-1.78]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.07
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.67
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.84
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.72]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.84
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.72]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.67
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.59
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.69]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.59
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.69]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.79
+|   |   |   |   |   |   |   |--- Price S&P Oil <= -1.31
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.67
+|   |   |   |   |   |   |   |   |   |--- value: [-1.47]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.67
+|   |   |   |   |   |   |   |   |   |--- value: [-1.44]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  -1.31
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -1.28
+|   |   |   |   |   |   |   |   |   |--- value: [-1.66]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -1.28
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.52
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.57]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.52
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.67
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.52]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.67
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.55]
+|   |   |   |   |   |--- Price WTI crude oil >  -1.35
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.84
+|   |   |   |   |   |   |   |--- Price S&P Oil <= 0.10
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.78
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.73
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.58]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.73
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.65]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.78
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.77
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.45]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.77
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.73
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.52]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.73
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- Price S&P Oil >  0.10
+|   |   |   |   |   |   |   |   |--- value: [-0.85]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.84
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.78
+|   |   |   |   |   |   |   |   |--- value: [-0.62]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.78
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.98
+|   |   |   |   |   |   |   |   |   |--- value: [-1.45]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.98
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.93
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -1.31
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -1.31
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.03]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.93
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -1.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -1.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |--- Price WTI crude oil >  -0.61
+|   |   |   |   |   |--- Price S&P Oil <= -0.44
+|   |   |   |   |   |   |--- Price S&P Oil <= -0.78
+|   |   |   |   |   |   |   |--- value: [0.18]
+|   |   |   |   |   |   |--- Price S&P Oil >  -0.78
+|   |   |   |   |   |   |   |--- value: [-0.22]
+|   |   |   |   |   |--- Price S&P Oil >  -0.44
+|   |   |   |   |   |   |--- Price S&P Oil <= 0.08
+|   |   |   |   |   |   |   |--- Price S&P Oil <= -0.21
+|   |   |   |   |   |   |   |   |--- value: [-1.43]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  -0.21
+|   |   |   |   |   |   |   |   |--- value: [-1.26]
+|   |   |   |   |   |   |--- Price S&P Oil >  0.08
+|   |   |   |   |   |   |   |--- Price S&P Oil <= 0.46
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.55
+|   |   |   |   |   |   |   |   |   |--- value: [-0.89]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.55
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.83
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.82]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.83
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.80]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  0.46
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.77
+|   |   |   |   |   |   |   |   |   |--- value: [-0.62]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.77
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.65
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.72]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.70]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.65
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.75]
+|   |   |   |--- Adj Close Exxonmobil stock >  -0.45
+|   |   |   |   |--- Price S&P Oil <= -0.87
+|   |   |   |   |   |--- Price S&P Oil <= -0.90
+|   |   |   |   |   |   |--- Price treasury <= -1.35
+|   |   |   |   |   |   |   |--- value: [-1.03]
+|   |   |   |   |   |   |--- Price treasury >  -1.35
+|   |   |   |   |   |   |   |--- value: [-1.04]
+|   |   |   |   |   |--- Price S&P Oil >  -0.90
+|   |   |   |   |   |   |--- Price S&P Oil <= -0.90
+|   |   |   |   |   |   |   |--- value: [-1.08]
+|   |   |   |   |   |   |--- Price S&P Oil >  -0.90
+|   |   |   |   |   |   |   |--- value: [-1.07]
+|   |   |   |   |--- Price S&P Oil >  -0.87
+|   |   |   |   |   |--- Price treasury <= -1.17
+|   |   |   |   |   |   |--- Price S&P Oil <= -0.38
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.67
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.43
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.72
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.72
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.72]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.73]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.43
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.55
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.74
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.12]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.74
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.55
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -1.62
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -1.62
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.67
+|   |   |   |   |   |   |   |   |--- Price treasury <= -1.53
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.51
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -1.77
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.27]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -1.77
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.20]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.51
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.62
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.31]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.62
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.34]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -1.53
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.42
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.88
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.88
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.42
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.52
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.38]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.52
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.39]
+|   |   |   |   |   |   |--- Price S&P Oil >  -0.38
+|   |   |   |   |   |   |   |--- Price treasury <= -1.79
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.61
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.56
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.34
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.49]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.34
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.56
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.30
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.48]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.30
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.47]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.61
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.27
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.39]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.35]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.27
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.43]
+|   |   |   |   |   |   |   |--- Price treasury >  -1.79
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.57
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -1.43
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.43]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -1.43
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.29
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.02]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.29
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.57
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -1.40
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -1.58
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.47]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -1.58
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.47]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -1.40
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.39]
+|   |   |   |   |   |--- Price treasury >  -1.17
+|   |   |   |   |   |   |--- Price S&P Oil <= -0.67
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.58
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.36
+|   |   |   |   |   |   |   |   |   |--- value: [-0.09]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.36
+|   |   |   |   |   |   |   |   |   |--- value: [-0.02]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.58
+|   |   |   |   |   |   |   |   |--- value: [0.22]
+|   |   |   |   |   |   |--- Price S&P Oil >  -0.67
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.31
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.67
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.18
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.90]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.18
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.87]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.67
+|   |   |   |   |   |   |   |   |   |--- value: [-1.09]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.31
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.63
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.58
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.80
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.80
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.58
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.85
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.85
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.58]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.63
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.02
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.01]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.02
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.86]
+|   |   |--- Price treasury >  -0.31
+|   |   |   |--- Price S&P Oil <= -0.32
+|   |   |   |   |--- Price WTI crude oil <= -0.85
+|   |   |   |   |   |--- Price treasury <= -0.01
+|   |   |   |   |   |   |--- Price treasury <= -0.24
+|   |   |   |   |   |   |   |--- value: [-1.20]
+|   |   |   |   |   |   |--- Price treasury >  -0.24
+|   |   |   |   |   |   |   |--- value: [-1.29]
+|   |   |   |   |   |--- Price treasury >  -0.01
+|   |   |   |   |   |   |--- value: [-0.14]
+|   |   |   |   |--- Price WTI crude oil >  -0.85
+|   |   |   |   |   |--- Price treasury <= 1.35
+|   |   |   |   |   |   |--- Price WTI crude oil <= -0.51
+|   |   |   |   |   |   |   |--- Price treasury <= -0.10
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.52
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.30
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.18]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.30
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.77
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.77
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.52
+|   |   |   |   |   |   |   |   |   |--- value: [0.26]
+|   |   |   |   |   |   |   |--- Price treasury >  -0.10
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.30
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.35
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.70
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.70
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.61]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.30
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.81
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.81
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.12]
+|   |   |   |   |   |   |--- Price WTI crude oil >  -0.51
+|   |   |   |   |   |   |   |--- Price S&P Oil <= -0.56
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.72
+|   |   |   |   |   |   |   |   |   |--- value: [0.58]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.72
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.63
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.72]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.63
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.83]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  -0.56
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.34
+|   |   |   |   |   |   |   |   |   |--- value: [-0.14]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.34
+|   |   |   |   |   |   |   |   |   |--- value: [-0.06]
+|   |   |   |   |   |--- Price treasury >  1.35
+|   |   |   |   |   |   |--- Price treasury <= 2.05
+|   |   |   |   |   |   |   |--- value: [0.83]
+|   |   |   |   |   |   |--- Price treasury >  2.05
+|   |   |   |   |   |   |   |--- Price treasury <= 2.16
+|   |   |   |   |   |   |   |   |--- value: [0.80]
+|   |   |   |   |   |   |   |--- Price treasury >  2.16
+|   |   |   |   |   |   |   |   |--- value: [0.77]
+|   |   |   |--- Price S&P Oil >  -0.32
+|   |   |   |   |--- Price treasury <= -0.10
+|   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.15
+|   |   |   |   |   |   |--- value: [-0.68]
+|   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.15
+|   |   |   |   |   |   |--- value: [-0.48]
+|   |   |   |   |--- Price treasury >  -0.10
+|   |   |   |   |   |--- value: [-1.38]
+|--- Price WTI crude oil >  -0.48
+|   |--- Price treasury <= 0.80
+|   |   |--- Adj Close Exxonmobil stock <= -0.45
+|   |   |   |--- Price S&P Oil <= -0.42
+|   |   |   |   |--- Adj Close Exxonmobil stock <= -0.60
+|   |   |   |   |   |--- Price treasury <= 0.46
+|   |   |   |   |   |   |--- Price WTI crude oil <= 0.17
+|   |   |   |   |   |   |   |--- Price treasury <= 0.40
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.38
+|   |   |   |   |   |   |   |   |   |--- value: [0.38]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.38
+|   |   |   |   |   |   |   |   |   |--- value: [0.44]
+|   |   |   |   |   |   |   |--- Price treasury >  0.40
+|   |   |   |   |   |   |   |   |--- value: [0.51]
+|   |   |   |   |   |   |--- Price WTI crude oil >  0.17
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.36
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.73
+|   |   |   |   |   |   |   |   |   |--- value: [0.59]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.73
+|   |   |   |   |   |   |   |   |   |--- value: [0.61]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  0.36
+|   |   |   |   |   |   |   |   |--- value: [0.52]
+|   |   |   |   |   |--- Price treasury >  0.46
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.14
+|   |   |   |   |   |   |   |--- Price treasury <= 0.57
+|   |   |   |   |   |   |   |   |--- value: [0.79]
+|   |   |   |   |   |   |   |--- Price treasury >  0.57
+|   |   |   |   |   |   |   |   |--- value: [0.75]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.14
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.02
+|   |   |   |   |   |   |   |   |--- value: [0.88]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.02
+|   |   |   |   |   |   |   |   |--- value: [0.90]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  -0.60
+|   |   |   |   |   |--- value: [-0.17]
+|   |   |   |--- Price S&P Oil >  -0.42
+|   |   |   |   |--- Adj Close Exxonmobil stock <= -0.82
+|   |   |   |   |   |--- Price WTI crude oil <= -0.03
+|   |   |   |   |   |   |--- Price treasury <= -0.07
+|   |   |   |   |   |   |   |--- value: [-1.54]
+|   |   |   |   |   |   |--- Price treasury >  -0.07
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.18
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.02
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.01
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.38]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.01
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.30]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-1.35]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.02
+|   |   |   |   |   |   |   |   |   |--- value: [-1.31]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.18
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.02
+|   |   |   |   |   |   |   |   |   |--- value: [-1.26]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.02
+|   |   |   |   |   |   |   |   |   |--- value: [-1.29]
+|   |   |   |   |   |--- Price WTI crude oil >  -0.03
+|   |   |   |   |   |   |--- Price S&P Oil <= 0.26
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.05
+|   |   |   |   |   |   |   |   |--- value: [-1.21]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.05
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.21
+|   |   |   |   |   |   |   |   |   |--- value: [-1.19]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.21
+|   |   |   |   |   |   |   |   |   |--- value: [-1.17]
+|   |   |   |   |   |   |--- Price S&P Oil >  0.26
+|   |   |   |   |   |   |   |--- value: [-1.07]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  -0.82
+|   |   |   |   |   |--- Price S&P Oil <= 0.62
+|   |   |   |   |   |   |--- Price S&P Oil <= 0.47
+|   |   |   |   |   |   |   |--- Price S&P Oil <= 0.24
+|   |   |   |   |   |   |   |   |--- value: [-0.95]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  0.24
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.44
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.04]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [-1.02]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.44
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.97]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.96]
+|   |   |   |   |   |   |--- Price S&P Oil >  0.47
+|   |   |   |   |   |   |   |--- Price S&P Oil <= 0.51
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.05
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.86]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.05
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.91]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.50
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.78]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.78]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  0.51
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.62
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.71
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.89]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.71
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.84]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.62
+|   |   |   |   |   |   |   |   |   |--- value: [-1.01]
+|   |   |   |   |   |--- Price S&P Oil >  0.62
+|   |   |   |   |   |   |--- Price S&P Oil <= 0.90
+|   |   |   |   |   |   |   |--- Price S&P Oil <= 0.78
+|   |   |   |   |   |   |   |   |--- value: [-0.62]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  0.78
+|   |   |   |   |   |   |   |   |--- value: [-0.62]
+|   |   |   |   |   |   |--- Price S&P Oil >  0.90
+|   |   |   |   |   |   |   |--- value: [-0.51]
+|   |   |--- Adj Close Exxonmobil stock >  -0.45
+|   |   |   |--- Price S&P Oil <= 0.13
+|   |   |   |   |--- Price WTI crude oil <= -0.21
+|   |   |   |   |   |--- Price treasury <= -1.38
+|   |   |   |   |   |   |--- Price S&P Oil <= -0.31
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.44
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.45
+|   |   |   |   |   |   |   |   |   |--- value: [-0.53]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.45
+|   |   |   |   |   |   |   |   |   |--- value: [-0.53]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.44
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.46
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.86
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.56]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.86
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.55]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.46
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.36
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.57]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.36
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.56]
+|   |   |   |   |   |   |--- Price S&P Oil >  -0.31
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.48
+|   |   |   |   |   |   |   |   |--- value: [-0.36]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.48
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.44
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.46
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.48]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.46
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.47]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.44
+|   |   |   |   |   |   |   |   |   |--- value: [-0.42]
+|   |   |   |   |   |--- Price treasury >  -1.38
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.00
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.46
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.47
+|   |   |   |   |   |   |   |   |   |--- value: [0.19]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.47
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.13
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.78]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.13
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.29
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.73]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.29
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.72]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.46
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.33
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.42
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.24]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.13]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.42
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.43
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.43
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.33
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.39]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.00
+|   |   |   |   |   |   |   |--- Price S&P Oil <= -0.54
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.33
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.31
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.31
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.62
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.87]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.62
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.33
+|   |   |   |   |   |   |   |   |   |--- value: [0.54]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  -0.54
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.51
+|   |   |   |   |   |   |   |   |   |--- value: [-0.58]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.51
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.30
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.78]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.30
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.93
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.93
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |--- Price WTI crude oil >  -0.21
+|   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.52
+|   |   |   |   |   |   |--- Price S&P Oil <= -0.19
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.24
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.30
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.73]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.15
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.01
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.75]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.01
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.76]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.30
+|   |   |   |   |   |   |   |   |   |--- value: [0.55]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.24
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.10
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.74]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.35
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.78]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.78]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.10
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.01]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.44
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.44
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.97]
+|   |   |   |   |   |   |--- Price S&P Oil >  -0.19
+|   |   |   |   |   |   |   |--- value: [-0.80]
+|   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.52
+|   |   |   |   |   |   |--- Price S&P Oil <= -0.22
+|   |   |   |   |   |   |   |--- Price treasury <= 0.15
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.04
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.61]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.58]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.04
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.43
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.41]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.43
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.44]
+|   |   |   |   |   |   |   |--- Price treasury >  0.15
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.46
+|   |   |   |   |   |   |   |   |   |--- value: [1.61]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.46
+|   |   |   |   |   |   |   |   |   |--- value: [1.84]
+|   |   |   |   |   |   |--- Price S&P Oil >  -0.22
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.16
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.02
+|   |   |   |   |   |   |   |   |   |--- value: [1.88]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.02
+|   |   |   |   |   |   |   |   |   |--- value: [1.84]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.16
+|   |   |   |   |   |   |   |   |--- value: [1.79]
+|   |   |   |--- Price S&P Oil >  0.13
+|   |   |   |   |--- Adj Close Exxonmobil stock <= 1.01
+|   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.42
+|   |   |   |   |   |   |--- Price WTI crude oil <= 1.59
+|   |   |   |   |   |   |   |--- Price S&P Oil <= 0.60
+|   |   |   |   |   |   |   |   |--- Price treasury <= -0.56
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.56
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.61]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.58]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.56
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.49]
+|   |   |   |   |   |   |   |   |--- Price treasury >  -0.56
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.11
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.54
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.73]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.54
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.74]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.11
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.56]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.08
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- Price S&P Oil >  0.60
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.27
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.72
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= -1.11
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.56]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  -1.11
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.72
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.27
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.41]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.40]
+|   |   |   |   |   |   |--- Price WTI crude oil >  1.59
+|   |   |   |   |   |   |   |--- value: [-0.30]
+|   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.42
+|   |   |   |   |   |   |--- Price WTI crude oil <= 0.69
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.63
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.24
+|   |   |   |   |   |   |   |   |   |--- value: [-0.32]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.24
+|   |   |   |   |   |   |   |   |   |--- value: [-0.33]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.63
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.72
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.64
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.30]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.64
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.30]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.72
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.46
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.29]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.46
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.27]
+|   |   |   |   |   |   |--- Price WTI crude oil >  0.69
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.85
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= 2.20
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 1.89
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  1.89
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 1.99
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.06]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  1.99
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.02]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  2.20
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.55
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.29]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  2.55
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.27]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.85
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.96
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 1.83
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.07]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.12]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  1.83
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 1.93
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.27]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  1.93
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.17]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.96
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.04
+|   |   |   |   |   |   |   |   |   |   |--- value: [-0.06]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  0.04
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 1.75
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.12]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  1.75
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [-0.17]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  1.01
+|   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.90
+|   |   |   |   |   |   |--- Price WTI crude oil <= 2.29
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= 1.55
+|   |   |   |   |   |   |   |   |--- value: [-0.10]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  1.55
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.32
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.21
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.07
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  2.21
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.42]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  2.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.49]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.32
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.07
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  2.07
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.46]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |--- Price WTI crude oil >  2.29
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.75
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.58
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.71
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  0.71
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.01]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.58
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 2.56
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.60
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.14]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.60
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  2.56
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.12]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.75
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= 2.48
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 2.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.24]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  2.35
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.82
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.19]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.82
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.20]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  2.48
+|   |   |   |   |   |   |   |   |   |--- value: [0.45]
+|   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.90
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 2.01
+|   |   |   |   |   |   |   |--- Price treasury <= 0.37
+|   |   |   |   |   |   |   |   |--- value: [0.61]
+|   |   |   |   |   |   |   |--- Price treasury >  0.37
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.58
+|   |   |   |   |   |   |   |   |   |--- value: [0.49]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.58
+|   |   |   |   |   |   |   |   |   |--- value: [0.53]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  2.01
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.43
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 2.07
+|   |   |   |   |   |   |   |   |   |--- value: [0.68]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  2.07
+|   |   |   |   |   |   |   |   |   |--- value: [0.59]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  2.43
+|   |   |   |   |   |   |   |   |--- Price treasury <= 0.39
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 2.60
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.82]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  2.60
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.49
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.74]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  2.49
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.76]
+|   |   |   |   |   |   |   |   |--- Price treasury >  0.39
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.73
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 2.72
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.72]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  2.72
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.71]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  2.73
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.67]
+|   |--- Price treasury >  0.80
+|   |   |--- Price WTI crude oil <= 1.64
+|   |   |   |--- Price S&P Oil <= -0.06
+|   |   |   |   |--- Adj Close Exxonmobil stock <= -0.70
+|   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.58
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -2.13
+|   |   |   |   |   |   |   |--- value: [0.03]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -2.13
+|   |   |   |   |   |   |   |--- value: [0.47]
+|   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.58
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.97
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -1.32
+|   |   |   |   |   |   |   |   |--- value: [0.59]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -1.32
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.31
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.34
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.39
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.80]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.34
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.64
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.90]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.64
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.85]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.31
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.57
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.72]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.57
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= 0.96
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.75]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  0.96
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.77]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.97
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.77
+|   |   |   |   |   |   |   |   |--- Price treasury <= 1.45
+|   |   |   |   |   |   |   |   |   |--- value: [0.93]
+|   |   |   |   |   |   |   |   |--- Price treasury >  1.45
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.92
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.96]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.92
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.98]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.77
+|   |   |   |   |   |   |   |   |--- value: [0.82]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  -0.70
+|   |   |   |   |   |--- Price treasury <= 1.13
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.47
+|   |   |   |   |   |   |   |--- value: [1.34]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.47
+|   |   |   |   |   |   |   |--- Price treasury <= 0.94
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.94
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.68
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.80]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.68
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.80
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.75]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.80
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.76]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.94
+|   |   |   |   |   |   |   |   |   |--- value: [1.84]
+|   |   |   |   |   |   |   |--- Price treasury >  0.94
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.96
+|   |   |   |   |   |   |   |   |   |--- value: [1.57]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.96
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= 1.04
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.65]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  1.04
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.70]
+|   |   |   |   |   |--- Price treasury >  1.13
+|   |   |   |   |   |   |--- Price treasury <= 1.28
+|   |   |   |   |   |   |   |--- Price S&P Oil <= -0.14
+|   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.39
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.61
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= 1.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.68]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  1.24
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.69]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.61
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.51]
+|   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.39
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.52
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury <= 1.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.04]
+|   |   |   |   |   |   |   |   |   |   |--- Price treasury >  1.20
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.22]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.52
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.66
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.94]
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.66
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.90]
+|   |   |   |   |   |   |   |--- Price S&P Oil >  -0.14
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.18
+|   |   |   |   |   |   |   |   |   |--- value: [1.34]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.18
+|   |   |   |   |   |   |   |   |   |--- value: [1.63]
+|   |   |   |   |   |   |--- Price treasury >  1.28
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.59
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil <= -0.38
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.06
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.94
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.92]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.94
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.00]
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.06
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.06]
+|   |   |   |   |   |   |   |   |--- Price WTI crude oil >  -0.38
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.38
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.38
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  0.59
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.42
+|   |   |   |   |   |   |   |   |   |--- value: [0.81]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.42
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.08]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.98]
+|   |   |   |--- Price S&P Oil >  -0.06
+|   |   |   |   |--- Adj Close Exxonmobil stock <= 0.26
+|   |   |   |   |   |--- Price treasury <= 1.44
+|   |   |   |   |   |   |--- Price S&P Oil <= 0.03
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= -0.15
+|   |   |   |   |   |   |   |   |--- value: [1.56]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  -0.15
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.13
+|   |   |   |   |   |   |   |   |   |--- value: [1.44]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.13
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.02
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.46]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.02
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.48]
+|   |   |   |   |   |   |--- Price S&P Oil >  0.03
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.64
+|   |   |   |   |   |   |   |   |--- value: [1.36]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  0.64
+|   |   |   |   |   |   |   |   |--- value: [1.28]
+|   |   |   |   |   |--- Price treasury >  1.44
+|   |   |   |   |   |   |--- Price S&P Oil <= 0.03
+|   |   |   |   |   |   |   |--- Price treasury <= 1.46
+|   |   |   |   |   |   |   |   |--- value: [1.12]
+|   |   |   |   |   |   |   |--- Price treasury >  1.46
+|   |   |   |   |   |   |   |   |--- value: [1.14]
+|   |   |   |   |   |   |--- Price S&P Oil >  0.03
+|   |   |   |   |   |   |   |--- value: [1.47]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  0.26
+|   |   |   |   |   |--- Price treasury <= 1.29
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.45
+|   |   |   |   |   |   |   |--- Price treasury <= 1.17
+|   |   |   |   |   |   |   |   |--- Price treasury <= 1.10
+|   |   |   |   |   |   |   |   |   |--- value: [1.54]
+|   |   |   |   |   |   |   |   |--- Price treasury >  1.10
+|   |   |   |   |   |   |   |   |   |--- value: [1.48]
+|   |   |   |   |   |   |   |--- Price treasury >  1.17
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.27
+|   |   |   |   |   |   |   |   |   |--- value: [1.56]
+|   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.27
+|   |   |   |   |   |   |   |   |   |--- value: [1.59]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.45
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.58
+|   |   |   |   |   |   |   |   |--- Price treasury <= 1.21
+|   |   |   |   |   |   |   |   |   |--- value: [1.76]
+|   |   |   |   |   |   |   |   |--- Price treasury >  1.21
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= 0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.82]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  0.07
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.83]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.58
+|   |   |   |   |   |   |   |   |--- Price treasury <= 1.20
+|   |   |   |   |   |   |   |   |   |--- value: [1.67]
+|   |   |   |   |   |   |   |   |--- Price treasury >  1.20
+|   |   |   |   |   |   |   |   |   |--- value: [1.45]
+|   |   |   |   |   |--- Price treasury >  1.29
+|   |   |   |   |   |   |--- Price treasury <= 1.39
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.25
+|   |   |   |   |   |   |   |   |--- Price treasury <= 1.32
+|   |   |   |   |   |   |   |   |   |--- value: [1.23]
+|   |   |   |   |   |   |   |   |--- Price treasury >  1.32
+|   |   |   |   |   |   |   |   |   |--- Price treasury <= 1.36
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.28]
+|   |   |   |   |   |   |   |   |   |--- Price treasury >  1.36
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.29]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.25
+|   |   |   |   |   |   |   |   |--- value: [1.34]
+|   |   |   |   |   |   |--- Price treasury >  1.39
+|   |   |   |   |   |   |   |--- Price treasury <= 1.62
+|   |   |   |   |   |   |   |   |--- Price treasury <= 1.39
+|   |   |   |   |   |   |   |   |   |--- value: [1.78]
+|   |   |   |   |   |   |   |   |--- Price treasury >  1.39
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.03
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil <= -0.05
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.45]
+|   |   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.05
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.53]
+|   |   |   |   |   |   |   |   |   |--- Price S&P Oil >  -0.03
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.87
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.87
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- Price treasury >  1.62
+|   |   |   |   |   |   |   |   |--- Price treasury <= 1.80
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.84
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.68
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [1.48]
+|   |   |   |   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.68
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.84
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.63]
+|   |   |   |   |   |   |   |   |--- Price treasury >  1.80
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil <= 0.70
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.29]
+|   |   |   |   |   |   |   |   |   |--- Price WTI crude oil >  0.70
+|   |   |   |   |   |   |   |   |   |   |--- value: [1.34]
+|   |   |--- Price WTI crude oil >  1.64
+|   |   |   |--- Price S&P Oil <= 2.40
+|   |   |   |   |--- Adj Close Exxonmobil stock <= 0.82
+|   |   |   |   |   |--- Price S&P Oil <= 2.16
+|   |   |   |   |   |   |--- value: [-0.23]
+|   |   |   |   |   |--- Price S&P Oil >  2.16
+|   |   |   |   |   |   |--- value: [-0.23]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  0.82
+|   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.01
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 0.95
+|   |   |   |   |   |   |   |--- value: [-0.17]
+|   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  0.95
+|   |   |   |   |   |   |   |--- Price WTI crude oil <= 2.35
+|   |   |   |   |   |   |   |   |--- value: [-0.16]
+|   |   |   |   |   |   |   |--- Price WTI crude oil >  2.35
+|   |   |   |   |   |   |   |   |--- value: [-0.15]
+|   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.01
+|   |   |   |   |   |   |--- value: [-0.14]
+|   |   |   |--- Price S&P Oil >  2.40
+|   |   |   |   |--- Adj Close Exxonmobil stock <= 1.54
+|   |   |   |   |   |--- Price WTI crude oil <= 2.44
+|   |   |   |   |   |   |--- value: [0.17]
+|   |   |   |   |   |--- Price WTI crude oil >  2.44
+|   |   |   |   |   |   |--- Price WTI crude oil <= 2.45
+|   |   |   |   |   |   |   |--- value: [0.13]
+|   |   |   |   |   |   |--- Price WTI crude oil >  2.45
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock <= 1.44
+|   |   |   |   |   |   |   |   |--- value: [0.15]
+|   |   |   |   |   |   |   |--- Adj Close Exxonmobil stock >  1.44
+|   |   |   |   |   |   |   |   |--- value: [0.14]
+|   |   |   |   |--- Adj Close Exxonmobil stock >  1.54
+|   |   |   |   |   |--- value: [0.23]
